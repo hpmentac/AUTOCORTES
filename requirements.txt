@@ -1,0 +1,12 @@
+# bibliotecas da ferramenta de cortes (instaladas pelo instalar.bat dentro do .venv)
+# o torch vai a parte: versao CUDA se tiver placa NVIDIA, senao a de CPU
+yt-dlp[default]
+deno
+faster-whisper==1.2.1
+numpy
+# thumbs: achar o rosto do convidado (o OpenCV 5 tirou o detector classico), escrever o texto, recortar a pessoa
+# e controlar o Google Flow no Chrome instalado no PC (o Playwright usa o Chrome, nao baixa navegador)
+opencv-python-headless<5
+pillow
+rembg
+playwright

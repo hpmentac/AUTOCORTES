@@ -1,0 +1,20 @@
+# Referencias de titulos de canais de cortes que viralizam (o agente de titulos imita este estilo).
+# Uma por linha:  TITULO DO VIDEO | FRASE DA THUMBNAIL | por que funciona (opcional)
+# Pode acrescentar ou apagar linhas a vontade. Linhas com # sao ignoradas.
+"SE PREPAREM PARA SAIR DESSES TRABALHOS" - Fábio Akita | ESSAS PROFISSÕES VÃO SUMIR... | "DESSES" e "ESSAS" não dizem quais trabalhos: o medo de perder o emprego faz clicar para saber
+AS I.As DE GERAÇÃO VÃO ACABAR? - Fábio Akita | EU NÃO SEI COMO ISSO AINDA EXISTE... | título pergunta; thumb é opinião dura do convidado em 1ª pessoa, sem dizer o motivo
+FÁBIO AKITA DÁ CONSULTORIA AO VIVO PARA VIBE CODER | EU FIZ UM JOGO COM I.A E QUERO QUE VOCÊ JOGUE... | coloca o convidado famoso no centro; thumb convida o espectador a participar
+OS ABSURDOS AVANÇOS DA I.A - Fábio Akita | AS I.A'S FINALMENTE CHEGARAM LÁ... | título promete algo grande sem dizer o quê; thumb "LÁ" não explica onde
+PODER OCULTO: QUEM MANDARÁ NO BRASIL PELOS PRÓXIMOS 4 ANOS? | ESSE SERÁ O HOMEM MAIS PODEROSO DO BRASIL... | pergunta de alto risco para o país; "ESSE" aponta para alguém sem dar o nome
+"TODOS SEREMOS SUBSTITUÍDOS PELA I.A" - José Kobori | SEM A RENDA BÁSICA UNIVERSAL NÃO TEREMOS NADA... | frase forte e assustadora entre aspas; atinge "todos", inclusive quem assiste
+O COLAPSO POPULACIONAL MUNDIAL JÁ COMEÇOU (E NINGUÉM ESTÁ PREPARADO) - José Kobori | OS JOVENS NÃO TÊM ESPERANÇA NO FUTURO... | alerta de catástrofe que já está acontecendo; "ninguém está preparado" inclui você
+CARROS ELÉTRICOS SÃO MAIS ECONÔMICOS? - Ricardinho ACF + Sérgio Sacani | SÓ VALE A PENA EM UMA SITUAÇÃO... | pergunta que o espectador faria; thumb responde pela metade e esconde qual situação
+OS CARROS CHINESES SURGIRAM DO NADA? - Ricardinho ACF + Sérgio Sacani | A BYD VEIO DE UMA INDÚSTRIA CENTENÁRIA... | pergunta o senso comum; thumb contradiz com uma revelação surpreendente
+AS ALIANÇAS SECRETAS (E SUJAS) DA ELITE MUNDIAL - Daniel Lopez | ELES FAZEM ACORDOS POR BAIXO DOS PANOS... | segredo + conflito; "ELES" sem nome cria mistério
+HOUVE INTERFERÊNCIA AMERICANA NAS ELEIÇÕES BRASILEIRAS? - Daniel Lopez | ISSO PODE SER USADO PELO PT PARA ANULAR AS ELEIÇÕES... | pergunta polêmica; "ISSO" não diz o quê e a consequência é enorme
+O PLANO DO PT PARA VIRAR NO 2º TURNO - Tamir Felipe | O ÚNICO JEITO DE VIRAR O JOGO É... | promete revelar um plano; thumb corta a frase bem antes da resposta
+A DIREITA VAI CAÇAR ESQUERDISTAS NAS RUAS? - Lucas Pavanato | EU ESPERO QUE VOCÊS ESTEJAM COM MUITO MEDO! | pergunta de conflito extremo; thumb é ameaça direta em 1ª pessoa
+AINDA DÁ PARA VIRAR O JOGO NO 2º TURNO? - Roberto + Rodrigo (3 Irmãos) | O POVO NÃO ACEITA MAIS MIGALHAS... | pergunta de esperança; thumb dá opinião forte sem responder sim ou não
+POR QUE O BRASIL NÃO SE DESENVOLVEU? - Breno Altman + José Kobori | BRASIL E EUA ERAM IGUAIS, SÓ QUE... | pergunta grande sobre o país; thumb termina em "SÓ QUE..." e esconde a resposta
+"O BRASIL PRECISA SE PREPARAR MILITARMENTE" - José Kobori + Breno Altman | OS EUA OFICIALMENTE NOS MARCARAM COMO INIMIGOS... | frase de alerta entre aspas; thumb dá o motivo assustador mas não o detalhe
+EXISTE VIDA FORA DA POLARIZAÇÃO? - José Kobori + Breno Altman | OS MILITANTES SE TORNARAM TORCEDORES... | pergunta que muita gente se faz; thumb é comparação provocativa

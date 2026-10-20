@@ -1,0 +1,12 @@
+# Referencias de IMAGEM DE FUNDO das thumbs (canal The Diary Of A CEO Clips). O agente diretor de arte imita a logica.
+# Uma por linha:  TITULO DO VIDEO | CENA DO FUNDO | TIPO | por que funciona
+# Pode acrescentar ou apagar linhas. Linhas com # sao ignoradas.
+Se você acha que os mortos já foram embora, precisa ver isto | family crying around a hospital deathbed, the deceased man appears behind them smiling and glowing in heavenly golden light | reacao humana | mostra literalmente a afirmação do título, com emoção forte (luto + esperança)
+Se VOCÊ Duvida de um Poder Superior, PRECISA Ver Isto | a lone surfer riding a gigantic glowing emerald-green wave at golden hour, wave full of light particles | grandiosidade | assombro: o homem pequeno diante de algo enorme e quase divino
+Se VOCÊ não consegue se concentrar, PRECISA ver isso | x-ray skull split in half, left brain red and damaged, right brain green and healthy, labels Before and After | antes e depois | promete transformação, comparação visual instantânea
+A Razão REAL Pela Qual Um Tsunami Está a Caminho | panicked crowd running through a New York street while a giant tsunami made of green digital code crashes over the skyscrapers | metafora vira catastrofe | a palavra do título (tsunami) vira cena real, com pânico
+IA Especialista ALERTA: "Você Não Está Preparado Para 2027" | menacing humanoid robot with exposed metal skull in front of a burning New York skyline and the Statue of Liberty | simbolo em perigo | ameaça + lugar famoso destruído = alto risco
+A Verdadeira Razão pela qual a AI Já Está a Escapar ao Nosso Controlo | rows of soldiers in helmets with heads down, one of them has a pale robot skull face looking at the camera | ameaca escondida | algo assustador escondido no meio do normal, o olho procura
+A Verdade CHOCANTE Sobre as Pirâmides Que Ninguém Te Conta | golden alien-like pharaoh mask in front of a glowing red pyramid shooting a beam of light into the sky | revelacao | mistério antigo + objeto brilhando = segredo prestes a ser revelado
+Se VOCÊ Acha Que Deus É Só Uma História, Você PRECISA Ver Isso | a cross made of a glowing galaxy shown on a lab monitor, a shocked female scientist with hand on her mouth | reacao humana | ciência encontra fé, e uma pessoa chocada mostra como o espectador deve se sentir
+Especialista em Guerra ALERTA: "O Que Está Por Vir É Inevitável" | endless rows of missiles in an underground bunker, security camera footage look with timestamp overlay | evidencia vazada | parece filmagem secreta que vazou: o espectador vê algo que não deveria

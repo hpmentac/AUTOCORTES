@@ -1,0 +1,19 @@
+# ambiente e binarios (o instalar.bat recria/baixa)
+.venv/
+__pycache__/
+uv.exe
+ffmpeg/
+python/
+
+# dados de cada pessoa: videos, modelos, logins do Google, configuracao
+saida/
+modelos/
+contas/
+logs/
+.tmp/
+config.json
+fila.txt
+instalacao.log
+
+# copia antiga do CLAUDE.md criada por outra ferramenta
+AGENTS.md
